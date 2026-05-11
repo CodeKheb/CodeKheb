@@ -162,7 +162,7 @@ done
 
 ---
 
-<div align="center">
+<div>
 
 ```bash
 #!/bin/bash
@@ -170,7 +170,6 @@ echo "Thanks for visiting! Remember:"
 echo "• Real programmers use Arch"
 echo "• Vim keybindings everywhere"  
 echo "• If it's not in the AUR, compile it yourself"
-echo ""
 echo "May your builds be successful and your dotfiles pristine. 🐧"
 ```
 
