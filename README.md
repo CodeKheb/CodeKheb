@@ -15,8 +15,6 @@
 
 ## `$ cat /proc/interests`
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=CodeKheb&show_icons=true&theme=dark&bg_color=0d1117&border_color=1793D1&icon_color=1793D1&title_color=1793D1" />
-
 ```bash
 #!/bin/bash
 
@@ -96,38 +94,6 @@ done
 [INFO] Current Task: Building something cool
 [WARN] Coke levels: Low - refill recommended
 ```
-
----
-
-## `$ fastfetch`
-
-<div>
-
-```
-
-                   -`                     CodeKheb@github
-                  .o+`                    -----------------
-                 `ooo/                    OS: Arch Linux (obviously)
-                `+oooo:                   Shell: zsh (with oh-my-zsh)
-               `+oooooo:                  DE: I change it all the time
-               -+oooooo+:                 Editor: Neovim (btw)
-             `/:-:++oooo+:                Terminal: Kitty
-            `/++++/+++++++:               Packages: Too many AUR packages
-           `/++++++++++++++:              Theme: Tokyo-Night [GTK2/3/4]
-          `/+++ooooooooooooo/`            Uptime: Since last kernel update
-         ./ooosssso++osssssso+`           Resolution: 1920x1080@60Hz
-        .oossssso-````/ossssss+`          
-       -osssssso.      :ssssssso.         "I don't always test my code,
-      :osssssss/        osssso+++.        but when I do, I do it in
-     /ossssssss/        +ssssooo/-        production."
-   `/ossssso+/:-        -:/+osssso+-      
-  `+sso+:-`                 `.-/+oso:     
- `++:.                           `-/+/    
- .`                                 `/
-
-```
-
-</div>
 
 ---
 
