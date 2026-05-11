@@ -7,7 +7,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=1793D1&center=true&vCenter=true&width=435&lines=I+use+Arch+btw;Yes%2C+I+compiled+it+myself;My+dotfiles+are+on+GitHub;Rolling+release+or+nothing)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=1793D1&center=true&vCenter=true&width=435&lines=CodeKheb;I+use+Arch+btw;Yes%2C+I+compiled+it+myself;My+dotfiles+are+on+GitHub;Rolling+release+or+nothing)
 
 </div>
 
