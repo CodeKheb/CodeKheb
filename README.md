@@ -1,13 +1,6 @@
 # `$ whoami`
+<div>
 
-<pre align="center" style="color: #1793D1;">
-   ▄▄▄             █         ▄    ▄ █             █     
- ▄▀   ▀  ▄▄▄    ▄▄▄█   ▄▄▄   █  ▄▀  █ ▄▄    ▄▄▄   █▄▄▄  
- █      █▀ ▀█  █▀ ▀█  █▀  █  █▄█    █▀  █  █▀  █  █▀ ▀█ 
- █      █   █  █   █  █▀▀▀▀  █  █▄  █   █  █▀▀▀▀  █   █ 
-  ▀▄▄▄▀ ▀█▄█▀  ▀█▄██  ▀█▄▄▀  █   ▀▄ █   █  ▀█▄▄▀  ██▄█▀
-</pre>
-<div align="center">
   
 </div>
 
@@ -22,7 +15,7 @@
 
 ## `$ cat /proc/interests`
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&bg_color=0d1117&border_color=1793D1&icon_color=1793D1&title_color=1793D1" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=CodeKheb&show_icons=true&theme=dark&bg_color=0d1117&border_color=1793D1&icon_color=1793D1&title_color=1793D1" />
 
 ```bash
 #!/bin/bash
