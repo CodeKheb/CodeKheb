@@ -73,7 +73,7 @@ done
 
 ---
 
-## `$ systemctl status code_kheb.service`
+## `$ systemctl status CodeKheb.service`
 
 ```javascript
 ● CodeKheb.service - Full Stack Developer & Arch Enthusiast
