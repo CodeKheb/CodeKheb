@@ -11,31 +11,6 @@
 
 </div>
 
----
-
-## `$ cat /proc/interests`
-
-```bash
-#!/bin/bash
-
-interests=(
-    "⚙️  Ricing my Arch setup (again)"
-    "🖥️  Server infrastructure & deployment"
-    "🤖  Local AI model deployment"
-    "⚡  Systems programming & backend dev"
-    "🔬  Quantum computing research"
-    "📦  Building from source"
-)
-
-for interest in "${interests[@]}"; do
-    echo "[*] $interest"
-done
-```
-
-<br clear="right"/>
-
----
-
 ## `$ pacman -Qs skills`
 
 <div align="center">
@@ -74,31 +49,6 @@ done
 
 </div>
 
----
-
-## `$ systemctl status CodeKheb.service`
-
-```javascript
-● CodeKheb.service - Full Stack Developer & Arch Enthusiast
-   Loaded: loaded (/home/CodeKheb/life.service; enabled)
-   Active: ██████████████████░░  active (coding) since 2025
-   
-   Process: 1337 ExecStart=/usr/bin/CodeKheb --learn --build --deploy
-   Main PID: 1337 (CodeKheb)
-   Tasks: ∞
-   Memory: Optimized (I use btop btw)
-   CGroup: /system.slice/CodeKheb.service
-           ├─ server_config.yaml
-           ├─ backend_dev.go
-           ├─ frontend_dev.js
-           ├─ automation.py
-           ├─ scripting.sh
-           └─ dotfiles.lua
-   
-[INFO] Uptime: Maximum
-[INFO] Current Task: Building something cool
-[WARN] Coke levels: Low - refill recommended
-```
 
 ---
 
@@ -118,32 +68,12 @@ done
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeKheb)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kherbin-clloyde-buenaventura-875414401)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kherbinbuenaventura@gmail.com)
 
-</div>
-
 ---
 
-<div>
-
-```bash
-#!/bin/bash
-echo "Thanks for visiting! Remember:"
-echo "• Real programmers use Arch"
-echo "• Vim keybindings everywhere"  
-echo "• If it's not in the AUR, compile it yourself"
-echo "May your builds be successful and your dotfiles pristine. 🐧"
-```
-
-![Profile Views](https://komarev.com/ghpvc/?username=CodeKheb&color=1793d1&style=for-the-badge)
-
-**`sudo pacman -Syu && have_a_great_day()`**
-
 </div>
-
----
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
