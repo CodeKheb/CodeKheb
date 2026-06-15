@@ -1,10 +1,4 @@
 # `$ whoami`
-<div>
-
-  
-</div>
-
-
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=1793D1&center=true&vCenter=true&width=435&lines=CodeKheb;I+use+Arch+btw;Yes%2C+I+compiled+it+myself;My+dotfiles+are+on+GitHub;Rolling+release+or+nothing)
@@ -12,45 +6,32 @@
 </div>
 
 ## `$ pacman -Qs skills`
-
 <div align="center">
 
-### **// COMPILED_LANGUAGES**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-### **// SCRIPTING**
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
-### **// WEB_STACK**
-![NodeJS](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=c,rust,go,java,py,ts,js,lua,bash)][1]
 
-### **// Embedded**
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+### Frontend & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,tailwind)][1]
 
-### **// TOOLS**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+### Backend & Infrastructure
+[![My Skills](https://skillicons.dev/icons?i=postgres,docker)][1]
 
-### **// GAME_DEV**
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+### Tools & Ecosystems
+[![My Skills](https://skillicons.dev/icons?i=git,github,maven,neovim,arch)][1]
 
-### **// ENVIRONMENT**
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+### Embedded Systems
+<img src="https://img.shields.io/badge/-ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" height="36" style="border-radius: 12px; margin: 5px;" />
+<img src="https://img.shields.io/badge/-ESP--IDF-E7352C?style=for-the-badge&logo=espressif&logoColor=white" height="36" style="border-radius: 12px; margin: 5px;" />
+
+### Game Dev
+[![My Skills](https://skillicons.dev/icons?i=godot)][1]
 
 </div>
 
-
----
+[1]: https://skillicons.dev---
 
 ## `$ git log --graph --oneline`
 
