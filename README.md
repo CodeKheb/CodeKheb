@@ -20,14 +20,11 @@
 [![My Skills](https://skillicons.dev/icons?i=sqlite,postgres,docker)][1]
 
 ### Tools & Ecosystems
-[![My Skills](https://skillicons.dev/icons?i=git,github,maven,gradle,neovim,linux,arch)][1]
+[![My Skills](https://skillicons.dev/icons?i=git,github,godot,maven,gradle,neovim,linux,arch)][1]
 
 ### Embedded Systems
 <img src="https://img.shields.io/badge/-ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" height="36" style="border-radius: 12px; margin: 5px;" />
 <img src="https://img.shields.io/badge/-ESP--IDF-E7352C?style=for-the-badge&logo=espressif&logoColor=white" height="36" style="border-radius: 12px; margin: 5px;" />
-
-### Game Dev
-[![My Skills](https://skillicons.dev/icons?i=godot)][1]
 
 </div>
 
