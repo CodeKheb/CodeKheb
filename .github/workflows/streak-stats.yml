@@ -22,7 +22,7 @@ jobs:
         with:
           user: ${{ github.repository_owner }}
           path: profile/streak.svg
-          options: "theme=dark&background=0D1117&border=1793D1&stroke=1793D1&ring=1793D1&fire=1793D1&currStreakLabel=1793D1"        env:
+          options: "theme=dark&background=0D1117&border=1793D1&stroke=1793D1&ring=1793D1&fire=1793D1&currStreakLabel=1793D1"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
