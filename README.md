@@ -34,7 +34,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=CodeKheb&theme=dark&background=0D1117&border=1793D1&stroke=1793D1&ring=1793D1&fire=1793D1&currStreakLabel=1793D1)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeKheb&bg_color=0d1117&color=1793d1&line=1793d1&point=58a6ff&area=true&hide_border=false)
 
