@@ -20,10 +20,17 @@ jobs:
       - name: Generate streak stats
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          options: user=${{ github.repository_owner }}&theme=dark&background=0D1117&border=1793D1&stroke=1793D1&ring=1793
-D1&fire=1793D1&currStreakLabel=1793D1
+          user: ${{ github.repository_owner }}
+          theme: dark
+          background: 0D1117
+          border: 1793D1
+          stroke: 1793D1
+          ring: 1793D1
+          fire: 1793D1
+          currStreakLabel: 1793D1
           path: profile/streak.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit streak stats
         run: |
