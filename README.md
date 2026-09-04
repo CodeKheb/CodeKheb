@@ -36,8 +36,6 @@
 
 <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeKheb&bg_color=0d1117&color=1793d1&line=1793d1&point=58a6ff&area=true&hide_border=false)
-
 </div>
 
 ---
