@@ -17,7 +17,7 @@
 [![My Skills](https://skillicons.dev/icons?i=tauri,express,react,nodejs,npm,tailwind,alpinejs)][1]
 
 ### Backend & Infrastructure
-[![My Skills](https://skillicons.dev/icons?i=sqlite,postgres,docker)][1]
+[![My Skills](https://skillicons.dev/icons?i=terraform,sqlite,postgres,docker)][1]
 
 ### Tools & Ecosystems
 [![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,blender,godot,maven,gradle,neovim,linux,arch)][1]
