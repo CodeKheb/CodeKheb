@@ -11,24 +11,27 @@
 
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=c,rust,go,java,py,ts,js,lua,bash)][1]
 
-### Frontend & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=tauri,express,react,nodejs,npm,tailwind,alpinejs)][1]
+[![My Skills](https://skillicons.dev/icons?i=c,rust,go,java,py,ts,js,lua,bash)](https://skillicons.dev)
 
-### Backend & Infrastructure
-[![My Skills](https://skillicons.dev/icons?i=linux,terraform,gcp,vercel,sqlite,postgres,docker)][1]
+### Web & Application
 
-### Tools & Ecosystems
-[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,blender,godot,maven,gradle,neovim,arch)][1]
+[![My Skills](https://skillicons.dev/icons?i=tauri,express,react,nodejs,npm,tailwind,alpinejs)](https://skillicons.dev)
 
-### Embedded Systems
+### Systems & Cloud
+
+[![My Skills](https://skillicons.dev/icons?i=linux,terraform,gcp,vercel,docker,sqlite,postgres)](https://skillicons.dev)
+
+### Embedded
+
+<img src="https://img.shields.io/badge/-Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" height="36" style="border-radius: 12px; margin: 5px;" />
+<img src="https://img.shields.io/badge/-Arduino%20CLI-00878F?style=for-the-badge&logo=arduino&logoColor=white" height="36" style="border-radius: 12px; margin: 5px;" />
 <img src="https://img.shields.io/badge/-ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" height="36" style="border-radius: 12px; margin: 5px;" />
 <img src="https://img.shields.io/badge/-ESP--IDF-E7352C?style=for-the-badge&logo=espressif&logoColor=white" height="36" style="border-radius: 12px; margin: 5px;" />
 
-</div>
+### Tools & Game Dev
 
-[1]: https://skillicons.dev---
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,blender,godot,maven,gradle,neovim,arch)](https://skillicons.dev)
 
 ## `$ git log --graph --oneline`
 
