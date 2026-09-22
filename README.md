@@ -17,10 +17,10 @@
 [![My Skills](https://skillicons.dev/icons?i=tauri,express,react,nodejs,npm,tailwind,alpinejs)][1]
 
 ### Backend & Infrastructure
-[![My Skills](https://skillicons.dev/icons?i=terraform,gcp,vercel,sqlite,postgres,docker)][1]
+[![My Skills](https://skillicons.dev/icons?i=linux,terraform,gcp,vercel,sqlite,postgres,docker)][1]
 
 ### Tools & Ecosystems
-[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,blender,godot,maven,gradle,neovim,linux,arch)][1]
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,blender,godot,maven,gradle,neovim,arch)][1]
 
 ### Embedded Systems
 <img src="https://img.shields.io/badge/-ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" height="36" style="border-radius: 12px; margin: 5px;" />
