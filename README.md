@@ -33,6 +33,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,blender,godot,maven,gradle,neovim,arch)](https://skillicons.dev)
 
+</div>
+
 ## `$ git log --graph --oneline`
 
 <div align="center">
