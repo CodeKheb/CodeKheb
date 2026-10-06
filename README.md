@@ -12,15 +12,15 @@
 
 ### Languages
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,rust,go,java,py,ts,js,lua,dart,kotlin,bash)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,rust,go,java,py,ts,js,lua,dart,kotlin,bash)
 
 ### Web & Application
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=tauri,express,vite,react,reactnative,nodejs,npm,tailwind,alpinejs,flutter)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=tauri,express,vite,react,reactnative,nodejs,npm,tailwind,alpinejs,android,flutter)
 
 ### Systems & Cloud
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,terraform,gcp,vercel,render,docker,sqlite,postgres,supabase,nginx,prometheus,grafana)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,terraform,gcp,vercel,render,docker,sqlite,postgres,supabase,cloudflare,nginx,prometheus,grafana)
 
 ### Embedded
 
@@ -35,7 +35,7 @@
 
 ### Tools & Game Dev
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,blender,godot,maven,gradle,prettier,neovim,arch)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,blender,godot,phaser,maven,gradle,prettier,neovim,arch,tmux,tailscale)
 
 </div>
 
