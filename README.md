@@ -12,15 +12,15 @@
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=c,rust,go,java,py,ts,js,lua,bash)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,rust,go,java,py,ts,js,lua,dart,kotlin,bash)
 
 ### Web & Application
 
-[![My Skills](https://skillicons.dev/icons?i=tauri,express,react,nodejs,npm,tailwind,alpinejs)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=tauri,express,vite,react,reactnative,nodejs,npm,tailwind,alpinejs,flutter)
 
 ### Systems & Cloud
 
-[![My Skills](https://skillicons.dev/icons?i=linux,terraform,gcp,vercel,docker,sqlite,postgres)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,terraform,gcp,vercel,render,docker,sqlite,postgres,supabase,nginx,prometheus,grafana)
 
 ### Embedded
 
@@ -29,9 +29,13 @@
 <img src="https://img.shields.io/badge/-ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" height="36" style="border-radius: 12px; margin: 5px;" />
 <img src="https://img.shields.io/badge/-ESP--IDF-E7352C?style=for-the-badge&logo=espressif&logoColor=white" height="36" style="border-radius: 12px; margin: 5px;" />
 
+### Machine Learning & A.I.
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=tensorflow,opencv,pytorch,numpy,claude,gemini,ollama)
+
 ### Tools & Game Dev
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,blender,godot,maven,gradle,neovim,arch)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,blender,godot,maven,gradle,prettier,neovim,arch)
 
 </div>
 
