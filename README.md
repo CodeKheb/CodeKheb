@@ -127,6 +127,18 @@
 
 ---
 
+## `$ git log --graph --oneline`
+
+<div align="center">
+
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
+
+</div>
+
+---
+
+
+
 ## `$ curl -sL https://CodeKheb.dev/contact`
 
 <div align="center">
