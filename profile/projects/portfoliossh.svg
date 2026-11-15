@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-labelledby="title desc">
   <title id="title">PortfolioSSH</title>
-  <desc id="desc">An SSH-accessible terminal portfolio built with Go and the Charm TUI stack, deployed on Google Cloud with Terraform and monitored with Prometheus and Grafana.</desc>
+  <desc id="desc">An SSH-accessible terminal portfolio built with Go and the Charm TUI stack.</desc>
   <defs>
     <style>
       .mono { font-family: 'Fira Code', 'SFMono-Regular', Consolas, monospace; }
@@ -8,9 +8,10 @@
       .muted { fill: #8b949e; }
     </style>
   </defs>
-  <rect x="0.5" y="0.5" width="799" height="199" rx="6" fill="#0d1117" stroke="#1793d1"/>
-  <text x="24" y="62" class="sans" font-size="26" font-weight="700" fill="#f0f6fc">PortfolioSSH</text>
-  <text x="24" y="88" class="sans" font-size="14" fill="#c9d1d9">An SSH-accessible terminal portfolio built with Go and the Charm TUI stack.</text>
-  <text x="24" y="114" class="mono" font-size="13" fill="#1793d1">$ ssh kherbin.getclingy.download</text>
-  <text x="776" y="182" class="mono muted" font-size="11" text-anchor="end">github.com/CodeKheb/PortfolioSSH</text>
+  <rect x="0.5" y="0.5" width="494" height="194" rx="4.5" fill="#0d1117" stroke="#1793d1"/>
+  <text x="18" y="60" class="sans" font-size="30" font-weight="700" fill="#f0f6fc">PortfolioSSH</text>
+  <text x="18" y="84" class="sans" font-size="16" fill="#c9d1d9">An SSH-accessible terminal</text>
+  <text x="18" y="102" class="sans" font-size="16" fill="#c9d1d9">portfolio built with Go.</text>
+  <text x="18" y="122" class="mono" font-size="14" fill="#1793d1">$ ssh kherbin.getclingy.download</text>
+  <text x="477" y="182" class="mono muted" font-size="10" text-anchor="end">github.com/CodeKheb/PortfolioSSH</text>
 </svg>
