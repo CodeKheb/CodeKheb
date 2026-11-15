@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200" role="img" aria-labelledby="title desc">
+  <title id="title">Clingy</title>
+  <desc id="desc">An Android study planner that turns Google Classroom deadlines into scheduled study sessions, with an on-device model, a floating Cling mascot, and an Express backend on Vercel.</desc>
+  <defs>
+    <style>
+      .mono { font-family: 'Fira Code', 'SFMono-Regular', Consolas, monospace; }
+      .sans { font-family: 'Segoe UI', Ubuntu, sans-serif; }
+      .muted { fill: #8b949e; }
+    </style>
+  </defs>
+  <rect x="0.5" y="0.5" width="799" height="199" rx="6" fill="#0d1117" stroke="#1793d1"/>
+  <text x="24" y="62" class="sans" font-size="26" font-weight="700" fill="#f0f6fc">Clingy</text>
+  <text x="24" y="88" class="sans" font-size="14" fill="#c9d1d9">Your Google Classroom deadlines, turned into a study plan.</text>
+  <text x="24" y="114" class="mono" font-size="13" fill="#1793d1">$ npx expo start --dev-client</text>
+  <text x="776" y="182" class="mono muted" font-size="11" text-anchor="end">github.com/CodeKheb/Clingy</text>
+</svg>
