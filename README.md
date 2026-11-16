@@ -146,7 +146,7 @@
 </div>
 
 
-## `$ git log --online`
+## `$ git log --oneline`
 
 <div align="center">
 
