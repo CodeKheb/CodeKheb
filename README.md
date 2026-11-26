@@ -29,26 +29,6 @@
 
 <div align="center">
 
-<a href="https://github.com/CodeKheb/HelloWorld-CodeShare">
-  <img src="./profile/projects/codeshare.svg" width="495" alt="CodeShare" />
-</a>
-
-</div>
-
-<div align="center">
-  <table width="495">
-    <tr>
-      <td width="495" align="left">
-        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=46E3B7" height="20" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br />
-
-<div align="center">
-
 <a href="https://github.com/CodeKheb/Clingy">
   <img src="./profile/projects/clingy.svg" width="495" alt="Clingy" />
 </a>
@@ -66,6 +46,27 @@
 </div>
 
 <br />
+
+<br />
+
+<div align="center">
+
+<a href="https://github.com/CodeKheb/HelloWorld-CodeShare">
+  <img src="./profile/projects/codeshare.svg" width="495" alt="CodeShare" />
+</a>
+
+</div>
+
+<div align="center">
+  <table width="495">
+    <tr>
+      <td width="495" align="left">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=46E3B7" height="20" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 <div align="center">
 
@@ -119,8 +120,8 @@
   <table width="495">
     <tr>
       <td width="495" align="left">
-        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/JavaFX-38B2AC?style=flat-square&logo=java&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" height="20" />
-      </td>
+        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/JavaFX-38B2AC?style=flat-square&logo=java&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/FXGL-8A2BE2?style=flat-square&logo=java&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/MSI-0078D6?style=flat-square&logo=windows&logoColor=white" height="20" />
+        </td>
     </tr>
   </table>
 </div>
